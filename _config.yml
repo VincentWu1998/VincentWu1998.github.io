@@ -3,3 +3,7 @@ description: The world needs automation and I'm here to help!
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-leap-day
+home: ./index.html
+about: ./about.html
+github:
+  repository_url: https://github.com/VincentWu1998/VincentWu1998.github.io
