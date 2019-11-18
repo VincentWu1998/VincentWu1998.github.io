@@ -2,42 +2,49 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+---
+# "Vincent here!
+>--- I am a *Software Engineer* looking to create intelligent solutions for the 
+world around me.
+>whatever tasks and problems that await us, I am determined to find an optimal solution!"
+
+[Read my bio here!](./another-page.html)
+<br>
+
+---
+
+# <br>
+# ``` My Work```
+>"If the task is unfamiliar, I will meet the challenge!"
+
+## Cubic Transportation Systems
+
 
 [Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+# <br>
+# ``` My Projects```
+>"A means to stave off boredom."
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### TestVroom (Parkinson Patient Diving Simulator)
+As part of a competition, we created a driving simulator to help Parkinson 
+patients practice their reaction times and to safely practice their driving.  
+<br>
+[![image-text](testvroom.png)](./another-page.html)
+<br>
+<br>
+<br>
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### A Little More Motivation for Mint
+Extended a feature for the Mint personal finance app to increase user 
+motivation and to help track user goals.
 
-#### Header 4
+[![image-text](mint_redesign.png)](./another-page.html)
+<br>
+
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
