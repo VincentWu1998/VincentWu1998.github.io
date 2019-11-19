@@ -14,19 +14,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
   </head>
-  <body>
+  <body id="about">
     <div id="header">
         <header>
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
           <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
         </header>
     </div>
-
         <div id="banner">
-          <span id="logo"></span>
+          <a href={{site.github_profile}}>
+            <img src="assets/images/octocat-logo.svg" style="position:absolute; height: 36px; width: 36px; right:7px; top:7px; display: block;">
+          </a>
+
+          <a href={{site.linkedin}}>
+            <img src="assets/images/linkedin.png" style="position:absolute; height: 36px; width: 36px; right:50px; top:7px; display: block;">
+          </a>
 
           <a href="{{ site.home }}" class="button home"><strong>Home</strong></a>
-          <a href="{{ site.about }}" class="button about"><strong>About</strong></a>
+          <a class="about" href="{{ site.about }}" class="button about"><strong>About</strong></a>
+          <a href="{{ site.resume }}" class="button resume"><strong>Resume</strong></a>
           {% if site.show_downloads %}
             <div class="downloads">
               <span>Downloads:</span>

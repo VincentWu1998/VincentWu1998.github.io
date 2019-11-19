@@ -105,6 +105,27 @@ code {
   border-radius: 6px;
 }
 
+#about #banner .about {
+  //border: 1px solid #dba500;
+  border: 1px solid #c0c0c0;
+  //background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
+  border-radius: 5px;
+  box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
+  //background-color: #FFE788;
+  background-color: #c0c0c0;;
+  margin-left: 5px;
+  padding: 10px 12px;
+  margin-top: 6px;
+  line-height:14px;
+  font-size:14px;
+  color:#333;
+  font-weight: bold;
+  display:inline-block;
+  text-align:center;
+  background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
+  background-color: #ffeca0;
+}
+
 pre {
   padding:8px 15px;
   background: #333333;
@@ -211,7 +232,7 @@ header {
     //border: 1px solid #dba500;
     border: 1px solid #c0c0c0;
     //background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
-    border-radius: 10px;
+    border-radius: 5px;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
     //background-color: #FFE788;
     background-color: #c0c0c0;;
@@ -224,6 +245,11 @@ header {
     font-weight: bold;
     display:inline-block;
     text-align:center;
+
+    &:active {
+      background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
+      background-color: #ffeca0;
+    }
 
     &:hover {
       background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
@@ -275,7 +301,7 @@ header {
     }
   }
 
-  #logo {
+  #github_logo {
     position:absolute;
     height: 36px;
     width: 36px;
@@ -341,7 +367,7 @@ footer {
     .fork {
     }
 
-    #logo {
+    #github_logo {
       margin-right: 15px;
     }
   }

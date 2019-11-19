@@ -1,9 +1,12 @@
 title: Vincent Wu
 description: The world needs automation and I'm here to help!
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day
 home: ./index.html
 about: ./about.html
+resume: https://drive.google.com/file/d/1MHtBRn9sGjqYMSEWqrsDbrL8pNKvdHoQ/view?usp=sharing
+linkedin: https://www.linkedin.com/in/vincentwu1998/
+github_profile: https://github.com/VincentWu1998
 github:
   repository_url: https://github.com/VincentWu1998/VincentWu1998.github.io

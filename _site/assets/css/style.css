@@ -600,7 +600,7 @@ blockquote {
 
 code {
   font-family: 'Lucida Sans', Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
-  font-size: 18px;
+  font-size: 16px;
   color: #efefef;
   text-shadow: 0px 1px 0px #000;
   margin: 0 4px;
@@ -678,6 +678,23 @@ header {
     font-size: 18px;
     margin: 0px; }
 
+#home #banner .home {
+  border: 1px solid #c0c0c0;
+  border-radius: 5px;
+  box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
+  background-color: #c0c0c0;
+  margin-left: 5px;
+  padding: 10px 12px;
+  margin-top: 6px;
+  line-height: 14px;
+  font-size: 14px;
+  color: #333;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  background: linear-gradient(#ffe788, #ffe788);
+  background-color: #ffeca0; }
+
 #banner {
   z-index: 100;
   left: 0;
@@ -693,7 +710,7 @@ header {
   padding-right: 10px; }
   #banner .button {
     border: 1px solid #c0c0c0;
-    border-radius: 10px;
+    border-radius: 5px;
     box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
     background-color: #c0c0c0;
     margin-left: 5px;
@@ -737,7 +754,7 @@ header {
       display: inline; }
       #banner ul li a.button {
         background-color: #c0c0c0; }
-  #banner #logo {
+  #banner #github_logo {
     position: absolute;
     height: 36px;
     width: 36px;
@@ -761,10 +778,10 @@ small {
   font-size: 12px; }
 
 nav {
-  width: 230px;
+  width: 325px;
   position: fixed;
   top: 220px;
-  left: 50%;
+  left: 45%;
   margin-left: -580px;
   text-align: right; }
   nav ul {
@@ -773,8 +790,8 @@ nav {
     font-size: 15px;
     line-height: 24px; }
     nav ul li {
-      padding: 5px 0px;
-      line-height: 16px; }
+      padding: 10px 0px;
+      line-height: 20px; }
       nav ul li.tag-h1 {
         font-size: 1.2em; }
         nav ul li.tag-h1 a {
@@ -818,7 +835,7 @@ footer {
     width: 100%; }
     #banner .downloads {
       margin-right: 60px; }
-    #banner #logo {
+    #banner #github_logo {
       margin-right: 15px; }
 
   section {

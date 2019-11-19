@@ -608,6 +608,23 @@ code {
   background: #333;
   border-radius: 6px; }
 
+#about #banner .about {
+  border: 1px solid #c0c0c0;
+  border-radius: 5px;
+  box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
+  background-color: #c0c0c0;
+  margin-left: 5px;
+  padding: 10px 12px;
+  margin-top: 6px;
+  line-height: 14px;
+  font-size: 14px;
+  color: #333;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  background: linear-gradient(#ffe788, #ffe788);
+  background-color: #ffeca0; }
+
 pre {
   padding: 8px 15px;
   background: #333333;
@@ -693,7 +710,7 @@ header {
   padding-right: 10px; }
   #banner .button {
     border: 1px solid #c0c0c0;
-    border-radius: 10px;
+    border-radius: 5px;
     box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
     background-color: #c0c0c0;
     margin-left: 5px;
@@ -705,6 +722,9 @@ header {
     font-weight: bold;
     display: inline-block;
     text-align: center; }
+    #banner .button:active {
+      background: linear-gradient(#ffe788, #ffe788);
+      background-color: #ffeca0; }
     #banner .button:hover {
       background: linear-gradient(#ffe788, #ffe788);
       background-color: #ffeca0; }
@@ -737,7 +757,7 @@ header {
       display: inline; }
       #banner ul li a.button {
         background-color: #c0c0c0; }
-  #banner #logo {
+  #banner #github_logo {
     position: absolute;
     height: 36px;
     width: 36px;
@@ -787,7 +807,7 @@ footer {
     width: 100%; }
     #banner .downloads {
       margin-right: 60px; }
-    #banner #logo {
+    #banner #github_logo {
       margin-right: 15px; }
 
   section {
