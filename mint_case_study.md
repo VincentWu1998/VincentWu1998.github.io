@@ -122,13 +122,13 @@ Before we design our feature onto Mint, we had to create UX flows that envisione
 
 <span style="font-size: 16px"><b>Flow 1: Managing User Goals</b></span> (Click to View)
 
-[<img src="ux_flow1.png" alt="drawing" width="100%" class="center">](
+[<img src="ux_flow1.PNG" alt="drawing" width="100%" class="center">](
 ux_flow1.PNG)
 
 <br> <br>
 <span style="font-size: 16px"><b>Flow 2: Managing User Achievements</b></span> (Click to View)
 
-[<img src="ux_flow2.png" alt="drawing" width="100%" class="center">](
+[<img src="ux_flow2.PNG" alt="drawing" width="100%" class="center">](
 ux_flow2.PNG)
 
 
