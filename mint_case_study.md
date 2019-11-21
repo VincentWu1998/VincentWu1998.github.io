@@ -4,7 +4,9 @@ layout: case_study
 
 <br>
 
-<center><span style="font-size: 45px"> <b><i>Mint: A Case Study</i></b></span></center>
+<center><span style="font-size: 45px"> <b><i>Mint: A Case Study</i></b></span></center> <br>
+<center><span style="font-size: 20px"> Design Project (Fall, 2019)</span> <br></center>
+<center><span style="font-size: 20px"> UC San Diego (COGS 127 – Data Driven UX/Product Design)</span></center>
 
 <br>
 

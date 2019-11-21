@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="579a50a3-e982-4647-9ae7-8843ce32023d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/competitive_audit.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/competitive_notes.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/survey.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/case_study.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/case_study.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/case_study.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/case_study.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/style_about.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/style_about.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/mint_case_study.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/mint_case_study.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/case_study.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/case_study.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mint_case_study.md" beforeDir="false" afterPath="$PROJECT_DIR$/mint_case_study.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
