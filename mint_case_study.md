@@ -54,7 +54,8 @@ Our team has decided to use young students as our target user. We believe the yo
 >"Young students especially those who are interested in personal finance need to be more motivated when using personal finance apps to promote a more active effort towards saving money."
 
 
-At some point in their life, everyone experienced having a flow of income for their first time. For many, it can be overwhelming.  But as time goes on, we all realize that a little effort done periodically can go a long way. Budgeting allows people to save efficiently and safely month after month but at times it is very difficult to pull off. Instead, setting money aside to gradually accumulate for certain purchases would ensure a more active/flexible way of saving money.
+At some point in their life, everyone experienced having a flow of income for
+ their first time. For many, it can be overwhelming.  But as time goes on, we all realize that a little effort done periodically can go a long way. Setting money aside to gradually accumulate for certain purchases would ensure a more active/flexible way of saving money.
 It can be extremely effective, fun, and simple. It’s easy to become demotivated from constantly checking bank applications or money management apps like Mint. Such applications are very general and stationary in financial planning, and do little besides just listing numbers. With a lighthearted money saving app focused on achievements and user satisfaction, the biggest issue in money management will be tackled: motivation. Therefore, our project aims to help youths learning to manage their money and to stay motivated consistently to save up for a high-cost purchase.
 
 <br>
@@ -62,8 +63,10 @@ It can be extremely effective, fun, and simple. It’s easy to become demotivate
 ## Need Finding & User Research
 
 
-Before we started to design our feature, we conducted a survey on the local student population through a Google Form that was sent out to popular UCSD Facebook pages. We figured a survey would preserve anonymity so people don’t have to 
- associate their financial habits with their identities. Our survey process also allowed us to gain an understanding of not just students, but also teens 
+Before we started to design our feature, we conducted a survey on the local 
+student population through a Google Form that was sent out to popular UCSD 
+Facebook pages. We figured a survey would preserve anonymity so people wouldn’t 
+have to associate their financial habits with their identities. Our survey process also allowed us to gain an understanding of not just students, but also teens 
  and young adults with their first jobs. 
 <br> <br>
 The major findings of our survey are summarized below: 
@@ -119,13 +122,13 @@ Before we design our feature onto Mint, we had to create UX flows that envisione
 
 <span style="font-size: 16px"><b>Flow 1: Managing User Goals</b></span> (Click to View)
 
-![<img src="ux_flow1.png" alt="drawing" width="100%" class="center">](
+[<img src="ux_flow1.png" alt="drawing" width="100%" class="center">](
 ux_flow1.PNG)
 
 <br> <br>
 <span style="font-size: 16px"><b>Flow 2: Managing User Achievements</b></span> (Click to View)
 
-![<img src="ux_flow2.png" alt="drawing" width="100%" class="center">](
+[<img src="ux_flow2.png" alt="drawing" width="100%" class="center">](
 ux_flow2.PNG)
 
 
@@ -136,7 +139,7 @@ After the creation of UX flows, we created UI sketches to either conform to our 
 <br>
 <span style="font-size: 16px"><b>UI Sketches</b></span> (Click to View)
 
-![<img src="ui_sketches.PNG" alt="drawing" width="100%" class="center">](ui_sketches.PNG) 
+[<img src="ui_sketches.PNG" alt="drawing" width="100%" class="center">](ui_sketches.PNG) 
 
 <br>
 <span style="font-size: 18px"><i>Low Fidelity Paper Prototypes</i></span> <br>  

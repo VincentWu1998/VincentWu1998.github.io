@@ -14,12 +14,16 @@ by Matt Graham
 }
 
 body {
-  font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:15px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#2b2b2b;
   font-weight:300;
   margin: 0px;
   padding:0px 0 20px 0px;
-  background: url(../images/body-background.png) #eae6d1;
+  opacity: 90%;
+  background: rgb(40,62,74);
+  background: radial-gradient(circle, rgba(40,62,74,1) 0%, rgba(21,37,48,1) 84%, rgba(1,11,20,1) 100%);
+  //background: #010B14 top center repeat-x;
+  background-size: auto 9%;
   //background: #e0e0e0;
 }
 

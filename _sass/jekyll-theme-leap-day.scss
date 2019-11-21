@@ -14,12 +14,16 @@ by Matt Graham
 }
 
 body {
-  font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:15px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#2b2b2b;
   font-weight:300;
   margin: 0px;
   padding:0px 0 20px 0px;
-  background: url(../images/body-background.png) #eae6d1;
+  opacity: 90%;
+  background: rgb(40,62,74);
+  background: radial-gradient(circle, rgba(40,62,74,1) 0%, rgba(21,37,48,1) 84%, rgba(1,11,20,1) 100%);
+  //background: #010B14 top center repeat-x;
+  background-size: auto 9%;
   //background: #e0e0e0;
 }
 
@@ -309,11 +313,11 @@ header {
 
 section {
   width:800px;
-  padding: 30px 30px 50px 30px;
   margin: 20px 0;
+  padding: 30px 30px 30px 30px;
   margin-top: 190px;
   position:relative;
-  background: #fbfbfb;
+  background: #F2F3F5;
   border-radius: 20px;
   border: 1px solid #cbcbcb;
   box-shadow: 0px 1px 2px rgba(0,0,0,.09), inset 0px 0px 2px 2px rgba(255,255,255,.5), inset 0 0 5px 5px rgba(255,255,255,.4);
@@ -324,6 +328,7 @@ small {
 }
 
 nav {
+  opacity: 95%;
   width: 325px;
   position: fixed;
   top: 220px;
@@ -345,11 +350,17 @@ nav {
       // right:-12px;
 
       &.tag-h1 {
-        font-size: 1.2em;
+        font-size: 1.3em;
 
         a {
           font-weight: bold;
-          color: #333;
+          color: #e1bb34;
+          text-shadow:
+                  -1px -1px 0 #010B14,
+                  1px -1px 0 #010B14,
+                  -1px 1px 0 #010B14,
+                  1px 1px 0 #010B14;
+          //color: #333;
           //color: #ffffff;
         }
 
@@ -359,6 +370,7 @@ nav {
       }
 
       &.tag-h2 {
+        font-size: 0.9em;
 
         + .tag-h1 {
           margin-top:10px;
@@ -368,7 +380,13 @@ nav {
 
     a {
       //color: #666;
-      color: #707070;
+      color: #eddd91;
+      text-shadow:
+              -1px -1px 0 #010B14,
+              1px -1px 0 #010B14,
+              -1px 1px 0 #010B14,
+              1px 1px 0 #010B14;
+      //color: #707070;
       font-weight: bold;
 
       &:hover { color: #999; }

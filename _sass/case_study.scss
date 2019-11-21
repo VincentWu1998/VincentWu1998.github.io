@@ -19,7 +19,11 @@ body {
   font-weight:300;
   margin: 0px;
   padding:0px 0 20px 0px;
-  background: url(../images/body-background.png) #eae6d1;
+  opacity: 90%;
+  background: rgb(40,62,74);
+  background: radial-gradient(circle, rgba(40,62,74,1) 0%, rgba(21,37,48,1) 84%, rgba(1,11,20,1) 100%);
+  //background: #010B14 top center repeat-x;
+  background-size: auto 9%;
   //background: #e0e0e0;
 }
 
@@ -127,6 +131,7 @@ code {
 }
 
 nav {
+  opacity: 95%;
   width: 325px;
   position: fixed;
   top: 220px;
@@ -152,7 +157,13 @@ nav {
 
         a {
           font-weight: bold;
-          color: #333;
+          color: #e1bb34;
+          text-shadow:
+                  -1px -1px 0 #010B14,
+                  1px -1px 0 #010B14,
+                  -1px 1px 0 #010B14,
+                  1px 1px 0 #010B14;
+          //color: #333;
           //color: #ffffff;
         }
 
@@ -172,7 +183,13 @@ nav {
 
     a {
       //color: #666;
-      color: #707070;
+      color: #eddd91;
+      text-shadow:
+              -1px -1px 0 #010B14,
+              1px -1px 0 #010B14,
+              -1px 1px 0 #010B14,
+              1px 1px 0 #010B14;
+      //color: #707070;
       font-weight: bold;
 
       &:hover { color: #999; }

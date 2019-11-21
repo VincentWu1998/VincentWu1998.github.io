@@ -539,7 +539,10 @@ body {
   font-weight: 300;
   margin: 0px;
   padding: 0px 0 20px 0px;
-  background: url(../images/body-background.png) #eae6d1; }
+  opacity: 90%;
+  background: #283e4a;
+  background: radial-gradient(circle, #283e4a 0%, #152530 84%, #010b14 100%);
+  background-size: auto 9%; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #333;
@@ -626,6 +629,7 @@ code {
   background-color: #ffeca0; }
 
 nav {
+  opacity: 95%;
   width: 325px;
   position: fixed;
   top: 220px;
@@ -644,13 +648,15 @@ nav {
         font-size: 1.3em; }
         nav ul li.tag-h1 a {
           font-weight: bold;
-          color: #333; }
+          color: #e1bb34;
+          text-shadow: -1px -1px 0 #010B14, 1px -1px 0 #010B14, -1px 1px 0 #010B14, 1px 1px 0 #010B14; }
       nav ul li.tag-h2 {
         font-size: 0.9em; }
         nav ul li.tag-h2 + .tag-h1 {
           margin-top: 10px; }
     nav ul a {
-      color: #707070;
+      color: #eddd91;
+      text-shadow: -1px -1px 0 #010B14, 1px -1px 0 #010B14, -1px 1px 0 #010B14, 1px 1px 0 #010B14;
       font-weight: bold; }
       nav ul a:hover {
         color: #999; }
