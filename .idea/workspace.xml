@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="579a50a3-e982-4647-9ae7-8843ce32023d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/competitive_audit.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/competitive_notes.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/survey.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/case_study.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/case_study.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/case_study.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/case_study.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/style_about.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/style_about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mint_case_study.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/mint_case_study.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/case_study.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/case_study.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mint_case_study.md" beforeDir="false" afterPath="$PROJECT_DIR$/mint_case_study.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,24 +19,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>css</find>
-      <find>mint_case</find>
-      <find>mint_case_stud</find>
-      <find>/assets/css/case_study.scss</find>
-      <find>nav</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1677" />
-    <option name="y" value="-15" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
   </component>
   <component name="ProjectId" id="1TnTqvPeTVIhyTIGsaf1AAI4srO" />
   <component name="PropertiesComponent">
@@ -42,6 +36,9 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/_sass/jekyll-theme-leap-day.scss" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\apps\VincentWu1998.github.io" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\apps\VincentWu1998.github.io\assets\css" />
       <recent name="C:\apps\VincentWu1998.github.io\_layouts" />
@@ -60,6 +57,16 @@
           <option name="name" value="StatusDashboardGroupingRule" />
         </RuleState>
       </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
     </option>
   </component>
   <component name="SvnConfiguration">
