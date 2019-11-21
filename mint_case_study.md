@@ -62,11 +62,9 @@ It can be extremely effective, fun, and simple. It’s easy to become demotivate
 ## Need Finding & User Research
 
 
-Before we started to design our feature, we conducted a survey on the local student population through a Google Form that was sent out to popular UCSD Facebook pages.
-These Facebook pages were specifically pages that freshmen would have already joined early on or were pages that were specifically for helping freshmen. We figured the best way to move forward was to collect information from survey questions. We can use this method to capture a larger research audience while preserving anonymity so people don’t have to associate their financial habits with their identities, and gather what truly troubles people when it comes to saving in a general and accessible form for us to analyze.
-
-<br> 
-Our survey process allowed us to gain an understanding of not just students, but also teens and young adults with their first jobs. Many of the answers converged, and brought to light many problems that people face when trying to save. We noticed that about 67% of the survey participants believe they have good control over their money; however, very rarely do they commit to large purchases through periodic saving. Instead, big purchases are generally completed when the money is available. In addition to that, about 89% of the survey participants believed that a motivation factor within a money management app would be effective in keeping them committed.
+Before we started to design our feature, we conducted a survey on the local student population through a Google Form that was sent out to popular UCSD Facebook pages. We figured a survey would preserve anonymity so people don’t have to 
+ associate their financial habits with their identities. Our survey process also allowed us to gain an understanding of not just students, but also teens 
+ and young adults with their first jobs. 
 <br> <br>
 The major findings of our survey are summarized below: 
 <br><br>
@@ -101,10 +99,10 @@ The major findings of our survey are summarized below:
 ## Competitive Analysis
 The key principle of motivation in money management was inspired by the innovative features offered by Mint's competitors [Digit, Qapital Banking, and Acorns(formerly)] and by Mint's pre-existing integrations (Acorns). 
 However, the most important feature for motivation that was absent in all of these apps was an achievement system which was mainly inspired by the language-learning app, Duolingo.
-<br> <br>
-<img src="competitive_notes.PNG" alt="drawing" width="90%" class="center"/>
 
-<br>
+<!--- <br> <br> <img src="competitive_notes.PNG" alt="drawing" width="90%" 
+class="center"/> <br> -->
+
 Thus, to gauge how we should improve Mint, we performed a competitive audit and concluded that Mint (along with its integration with Acorns) needed to include an achievement system along with more user-defined goals.
 <br> <br>
 <img src="competitive_audit.PNG" alt="drawing" width="70%" class="center"/>
@@ -121,12 +119,14 @@ Before we design our feature onto Mint, we had to create UX flows that envisione
 
 <span style="font-size: 16px"><b>Flow 1: Managing User Goals</b></span> (Click to View)
 
-[<img src="ux_flow1.png" alt="drawing" width="100%" class="center">](ux_flow1.PNG)
+![<img src="ux_flow1.png" alt="drawing" width="100%" class="center">](
+ux_flow1.PNG)
 
 <br> <br>
 <span style="font-size: 16px"><b>Flow 2: Managing User Achievements</b></span> (Click to View)
 
-[<img src="ux_flow2.png" alt="drawing" width="100%" class="center">](ux_flow2.PNG)
+![<img src="ux_flow2.png" alt="drawing" width="100%" class="center">](
+ux_flow2.PNG)
 
 
 <br>
