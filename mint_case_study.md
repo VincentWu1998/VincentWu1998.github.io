@@ -24,7 +24,11 @@ layout: case_study
 # <span style="font-size: 45px"> <b>Project Overview</b></span>
 
 >“As part of UC San Diego's "Designing Human-Data Interactions" course, I was tasked in a team of three to extend or redesign a feature that helps a specific type of user to save for a major upcoming high-cost purchase.
-> Within the ten-week time frame of the course, our team learned about the UX/product design process that included prototyping and competitive audits."
+> Within the ten-week time frame of the course, our team learned about the 
+UX/product design process that included need finding, competitive audits, and
+ high-fidelity prototyping. 
+
+
 <br>
 
 
@@ -114,7 +118,12 @@ Thus, to gauge how we should improve Mint, we performed a competitive audit and 
 <br>
 
 
-## Prototyping 
+## Prototyping + Testing
+When it came to prototyping, our group created UX flows, UI 
+sketches, low-fidelity paper prototypes, high-fidelity prototypes. This 
+gradual process of prototyping allowed us to evolve our designs while 
+receiving much needed feedback at each stage. 
+
 <br>
 <span style="font-size: 18px"><i>UX Flows</i></span> <br>  
 Before we design our feature onto Mint, we had to create UX flows that envisioned how our user was to navigate within the app to either create their goals or to manage their achievements.
@@ -128,8 +137,7 @@ ux_flow1.PNG)
 <br> <br>
 <span style="font-size: 16px"><b>Flow 2: Managing User Achievements</b></span> (Click to View)
 
-[<img src="ux_flow2.PNG" alt="drawing" width="100%" class="center">](
-ux_flow2.PNG)
+[<img src="ux_flow2.PNG" alt="drawing" width="100%" class="center">](ux_flow2.PNG)
 
 
 <br>
@@ -143,4 +151,25 @@ After the creation of UX flows, we created UI sketches to either conform to our 
 
 <br>
 <span style="font-size: 18px"><i>Low Fidelity Paper Prototypes</i></span> <br>  
+Once the UI sketches were completed, it was time to craft our low-fidelity 
+paper prototpyes, these were very crucial for understanding how the user 
+initially went through the app and how certain features were anticipated or 
+hindered their experience.
+<br> <br>
 
+[<img src="paper_prototypes_1.JPG" alt="drawing" width="50%">](paper_prototypes_1.JPG) [<img src="paper_prototype_gif.gif" alt="drawing" height="20%" width="40%">](paper_prototype_gif.gif)
+
+<br>
+<span style="font-size: 18px"><i>High Fidelity Paper Prototypes I</i></span> 
+<br>  
+After valuable feedback from users testing our low-fidelity prototpyes, we 
+went on to develop digital high-fidelity prototypes.
+<br> <br>
+
+
+<br>
+<span style="font-size: 18px"><i>High Fidelity Paper Prototypes II</i></span> 
+<br> <br>
+
+
+ 
