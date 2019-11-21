@@ -135,7 +135,8 @@ After the creation of UX flows, we created UI sketches to either conform to our 
 
 <br>
 <span style="font-size: 16px"><b>UI Sketches</b></span> (Click to View)
-[<img src="ui_sketches.PNG" alt="drawing" width="100%" class="center">](ui_sketches.PNG) 
+
+![<img src="ui_sketches.PNG" alt="drawing" width="100%" class="center">](ui_sketches.PNG) 
 
 <br>
 <span style="font-size: 18px"><i>Low Fidelity Paper Prototypes</i></span> <br>  
