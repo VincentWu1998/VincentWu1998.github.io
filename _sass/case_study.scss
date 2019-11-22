@@ -19,11 +19,10 @@ body {
   font-weight:300;
   margin: 0px;
   padding:0px 0 20px 0px;
-  opacity: 90%;
-  background: rgb(40,62,74);
-  background: radial-gradient(circle, rgba(40,62,74,1) 0%, rgba(21,37,48,1) 84%, rgba(1,11,20,1) 100%);
-  //background: #010B14 top center repeat-x;
-  background-size: auto 9%;
+  opacity: 92%;
+  //background: radial-gradient(circle, rgba(40,62,74,1) 0%, rgba(21,37,48,1) 84%, rgba(1,11,20,1) 100%);
+  background: url("../images/wallpaper.JPG") top center no-repeat, rgb(19, 38, 52);
+  background-size: auto 35%;
   //background: #e0e0e0;
 }
 
@@ -163,8 +162,6 @@ nav {
                   1px -1px 0 #010B14,
                   -1px 1px 0 #010B14,
                   1px 1px 0 #010B14;
-          //color: #333;
-          //color: #ffffff;
         }
 
         + .tag-h2 {
@@ -390,6 +387,7 @@ header {
 
 section {
   width:840px;
+  opacity: 95%;
   margin: 0;
   padding: 30px 30px 30px 30px;
   margin-top: 190px;

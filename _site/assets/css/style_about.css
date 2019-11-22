@@ -539,10 +539,8 @@ body {
   font-weight: 300;
   margin: 0px;
   padding: 0px 0 20px 0px;
-  opacity: 90%;
-  background: #283e4a;
-  background: radial-gradient(circle, #283e4a 0%, #152530 84%, #010b14 100%);
-  background-size: auto 9%; }
+  opacity: 92%;
+  background: radial-gradient(circle, #283e4a 0%, #152530 84%, #010b14 100%); }
 
 h1, h2, h3, h4, h5, h6 {
   color: #333;
@@ -772,6 +770,7 @@ header {
 section {
   width: 800px;
   margin: 0;
+  opacity: 90%;
   padding: 30px 30px 30px 30px;
   margin-top: 190px;
   position: relative;

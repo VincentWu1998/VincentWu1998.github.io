@@ -142,7 +142,8 @@ ux_flow1.PNG)
 
 <br>
 <span style="font-size: 18px"><i>UX Sketches</i></span> <br> <br>
-After the creation of UX flows, we created UI sketches to either conform to our UX flows or to change how our users were to interact with our features. 
+After the creation of UX flows, we created UI sketches to either conform to 
+our UX flows or redefine our thought process. 
 
 <br>
 <span style="font-size: 16px"><b>UI Sketches</b></span> (Click to View)
@@ -160,16 +161,57 @@ hindered their experience.
 [<img src="paper_prototypes_1.JPG" alt="drawing" width="50%">](paper_prototypes_1.JPG) [<img src="paper_prototype_gif.gif" alt="drawing" height="20%" width="40%">](paper_prototype_gif.gif)
 
 <br>
-<span style="font-size: 18px"><i>High Fidelity Paper Prototypes I</i></span> 
+<span style="font-size: 18px"><i>High Fidelity Paper Prototypes</i></span> 
 <br>  
 After valuable feedback from users testing our low-fidelity prototpyes, we 
-went on to develop digital high-fidelity prototypes.
+went on to develop digital high-fidelity prototypes. These high-fidelity 
+prototypes started to show a slight divergence from our UX flows but that is 
+expected as the design process progresses.
 <br> <br>
 
+[<img src="high_fidelity_3.PNG" alt="drawing" width="100%" class="center">](high_fidelity_3.PNG) 
 
 <br>
-<span style="font-size: 18px"><i>High Fidelity Paper Prototypes II</i></span> 
+
+[<img src="high_fidelity_2.PNG" alt="drawing" width="100%" class="center">](high_fidelity_2.PNG) 
+
+<br>
+
+[<img src="high_fidelity_1.PNG" alt="drawing" width="100%" class="center">](high_fidelity_1.PNG) 
+
 <br> <br>
 
+# Reflection
+After about 10 weeks of this course, I have come to appreciate how the design
+ process is important to the life cycle of every project. I have felt that 
+ this case study has allowed me to have a hands-on experience in a project's 
+ design lifecycle which in many ways greatly differed from my traditional 
+ background in software devlopment and its own lifecycle, SDLC (software 
+ development lifecycle). For example, the greatest difference I have felt 
+ was the user-testing in this case study. The user-testing was a 
+ lot more frequent and had large sweeping changes on our decisions, sometimes more so 
+ than I was used to in my experience with software development. As we were 
+ developing our design we wanted to give users
+  more control over the features but this presented too much information to 
+  them; it took us a while until it finally dawned on us that we have lost
+   sight of the main principle of our feature, motivation. How could an app 
+   be motivating if the user is expected to be very specific and if they 
+   would treat using the app like a chore? Our A/B testing using the 
+   original Mint app and our design exposed our users' 
+   frustrations on our design and showed for far we truly departed 
+   from Mint's innate minimalist design. Our latter prototypes were then 
+   changed (somewhat reluctantly) to make our app more minimalist while 
+   retaining the features that truly matter. The end result was fulfilling to
+    our users and we have appreciated what we have been able to 
+    accomplish. Therefore, this challenge and difficulty we faced is 
+   something truly unique to me that sets the design process as a 
+   different principle that should be carefully conducted and considered in 
+   every project. 
+   <br> <br>
+    In the end, we hoped what we have designed would be a potential and 
+    enjoyable solution to the problems described in 
+   our project statement and we believe most if not all of our objectives were 
+   reached. I look forward for any opportunity to improve this project and 
+   more opportunities to test this project.
 
  
