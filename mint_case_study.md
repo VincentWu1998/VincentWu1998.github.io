@@ -181,13 +181,15 @@ our UX flows or redefine our thought process.
 Once the UI sketches were completed, it was time to craft our low-fidelity 
 paper prototpyes, these were very crucial for understanding how the user 
 initially went through the app and how certain features were anticipated or 
-hindered their experience.
+hindered their experience. For example, our users were annoyed in the goal 
+details page that the graph did not provide much detail / statistics and that
+ they would have to navigate through two more screens to view that info.
 <br> <br>
 
 [<img src="paper_prototypes_1.JPG" alt="drawing" width="50%">](paper_prototypes_1.JPG) [<img src="paper_prototype_gif.gif" alt="drawing" height="20%" width="40%">](paper_prototype_gif.gif)
 
 <br>
-<span style="font-size: 18px"><i>High Fidelity Paper Prototypes</i></span> 
+<span style="font-size: 18px"><i>High Fidelity Prototypes</i></span> 
 <br>  
 After valuable feedback from users testing our low-fidelity prototpyes, we 
 went on to develop digital high-fidelity prototypes. These high-fidelity 
