@@ -23,12 +23,28 @@ layout: case_study
 
 # <span style="font-size: 45px"> <b>Project Overview</b></span>
 
->“As part of UC San Diego's "Designing Human-Data Interactions" course, I was tasked in a team of three to extend or redesign a feature that helps a specific type of user to save for a major upcoming high-cost purchase.
-> Within the ten-week time frame of the course, our team learned about the 
+<br>
+
+## A Brief Intro
+
+As part of UC San Diego's "Designing Human-Data Interactions" course, I was tasked in a team of three to extend or redesign a feature that helps a specific type of user to save for a major upcoming high-cost purchase.
+Within the ten-week time frame of the course, our team learned about the 
 UX/product design process that included need finding, competitive audits, and
- high-fidelity prototyping. 
-
-
+ high-fidelity prototyping.  
+  <br> My main roles in this project were: 
+  * to keep the project as realistic as possible by gathering as much user
+   feedback as I can find
+  * aid in high-fidelity prototyping as I am terrible at hand sketching but 
+  adept at digital design.
+  * manage competitive analysis/audits to shape our design as a form of 
+  regression testing
+  <br>
+  
+  I view these three roles as very important especially the one with the 
+  competitive analysis and auditing because change within the design process happens very 
+  often; it tends to cover up our old decisions and the reasons why the 
+  decisions were essential in the first place.
+  
 <br>
 
 
