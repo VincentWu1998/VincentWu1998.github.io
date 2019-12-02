@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="579a50a3-e982-4647-9ae7-8843ce32023d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mint_case_study.md" beforeDir="false" afterPath="$PROJECT_DIR$/mint_case_study.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/case_study.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/case_study.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/case_study.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/case_study.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mint_case_study.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/mint_case_study.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,23 +18,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mint_case_study.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="206">
-                <caret line="191" column="47" selection-start-line="191" selection-start-column="47" selection-end-line="191" selection-end-column="47" />
+              <first_editor relative-caret-position="510">
+                <caret line="177" selection-start-line="177" selection-end-line="177" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sass/case_study.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1760">
-              <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+            <state relative-caret-position="286">
+              <caret line="138" column="4" selection-start-line="138" selection-start-column="4" selection-end-line="138" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -40,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_sass/jekyll-theme-leap-day.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+            <state relative-caret-position="336">
+              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -50,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/_sass/about.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
-              <caret line="23" column="103" lean-forward="true" selection-start-line="23" selection-start-column="103" selection-end-line="23" selection-end-column="103" />
+              <caret line="23" column="103" selection-start-line="23" selection-start-column="103" selection-end-line="23" selection-end-column="103" />
             </state>
           </provider>
         </entry>
@@ -74,9 +76,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_sass/jekyll-theme-leap-day.scss" />
-        <option value="$PROJECT_DIR$/_sass/case_study.scss" />
         <option value="$PROJECT_DIR$/_sass/about.scss" />
         <option value="$PROJECT_DIR$/mint_case_study.md" />
+        <option value="$PROJECT_DIR$/_sass/case_study.scss" />
       </list>
     </option>
   </component>
@@ -126,7 +128,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574408458765" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574408514475" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/_sass/jekyll-theme-leap-day.scss" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -135,16 +137,16 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/_sass/jekyll-theme-leap-day.scss" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\apps\VincentWu1998.github.io\assets\images" />
-      <recent name="C:\apps\VincentWu1998.github.io" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\apps\VincentWu1998.github.io\assets\css" />
       <recent name="C:\apps\VincentWu1998.github.io\_layouts" />
       <recent name="C:\apps\VincentWu1998.github.io" />
       <recent name="C:\apps\VincentWu1998.github.io\_sass" />
       <recent name="C:\apps\VincentWu1998.github.io\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\apps\VincentWu1998.github.io\assets\images" />
+      <recent name="C:\apps\VincentWu1998.github.io" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -186,18 +188,20 @@
       <workItem from="1574238095904" duration="3634000" />
       <workItem from="1574329522630" duration="21000" />
       <workItem from="1574329570756" duration="1025000" />
-      <workItem from="1574389420172" duration="9442000" />
+      <workItem from="1574389420172" duration="10089000" />
+      <workItem from="1574572196128" duration="5000" />
+      <workItem from="1575265954458" duration="376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19015000" />
+    <option name="totallyTimeSpent" value="20043000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.17590618" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.17910448" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -274,20 +278,6 @@
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/about.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="23" column="103" lean-forward="true" selection-start-line="23" selection-start-column="103" selection-end-line="23" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/jekyll-theme-leap-day.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -298,20 +288,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/case_study.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1760">
-          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mint_case_study.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="206">
-            <caret line="191" column="47" selection-start-line="191" selection-start-column="47" selection-end-line="191" selection-end-column="47" />
+          <first_editor relative-caret-position="510">
+            <caret line="177" selection-start-line="177" selection-end-line="177" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/jekyll-theme-leap-day.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/about.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="103" selection-start-line="23" selection-start-column="103" selection-end-line="23" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/case_study.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="138" column="4" selection-start-line="138" selection-start-column="4" selection-end-line="138" selection-end-column="4" />
         </state>
       </provider>
     </entry>
