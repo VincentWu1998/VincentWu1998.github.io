@@ -76,7 +76,7 @@ Our team has decided to use young students as our target user. We believe the yo
 
 At some point in their life, everyone experienced having a flow of income for
  their first time. For many, it can be overwhelming.  But as time goes on, we all realize that a little effort done periodically can go a long way. Setting money aside to gradually accumulate for certain purchases would ensure a more active/flexible way of saving money.
-It can be extremely effective, fun, and simple. It’s easy to become 
+It can be extremely effective, fun, and simple. It is easy to become 
 demotivated from constantly checking bank applications or money management 
 apps like Mint. Such applications are very general and stationary in 
 financial planning, and do little besides just listing numbers. With a 
@@ -95,7 +95,8 @@ purchase.
 
 Before we started to design our feature, we conducted a survey on the local 
 student population through a Google Form that was sent out to popular UCSD 
-Facebook pages. We figured a survey would preserve anonymity so people wouldn’t 
+Facebook pages. We figured a survey would preserve anonymity so people would 
+not 
 have to associate their financial habits with their identities. Our survey process also allowed us to gain an understanding of not just students, but also teens 
  and young adults with their first jobs. 
 <br> <br>
@@ -127,7 +128,7 @@ The major findings of our survey are summarized below:
 
 ---
 # <span style="font-size: 45px"> <b>Design Process</b></span>
-> "It's a process, not something dreamt overnight!"
+> "It is a process, not something dreamt overnight!"
 
 ## Competitive Analysis
 The key principle of motivation in money management was inspired by the innovative features offered by Mint's competitors [Digit, Qapital Banking, and Acorns(formerly)] and by Mint's pre-existing integrations (Acorns). 

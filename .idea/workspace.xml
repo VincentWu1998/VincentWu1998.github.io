@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="579a50a3-e982-4647-9ae7-8843ce32023d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/case_study.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/case_study.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/case_study.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/case_study.css" afterDir="false" />
-    </list>
+    <list default="true" id="579a50a3-e982-4647-9ae7-8843ce32023d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sass/case_study.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="403" lean-forward="true" selection-start-line="403" selection-end-line="403" />
+            <state relative-caret-position="254">
+              <caret line="392" column="20" lean-forward="true" selection-start-line="392" selection-start-column="20" selection-end-line="392" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -189,12 +185,12 @@
       <workItem from="1574329570756" duration="1025000" />
       <workItem from="1574389420172" duration="10089000" />
       <workItem from="1574572196128" duration="5000" />
-      <workItem from="1575265954458" duration="1668000" />
+      <workItem from="1575265954458" duration="2089000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21335000" />
+    <option name="totallyTimeSpent" value="21756000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -312,8 +308,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/case_study.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="403" lean-forward="true" selection-start-line="403" selection-end-line="403" />
+        <state relative-caret-position="254">
+          <caret line="392" column="20" lean-forward="true" selection-start-line="392" selection-start-column="20" selection-end-line="392" selection-end-column="20" />
         </state>
       </provider>
     </entry>
