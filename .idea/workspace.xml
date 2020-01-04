@@ -13,23 +13,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mint_case_study.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="510">
-                <caret line="177" selection-start-line="177" selection-end-line="177" />
+              <first_editor relative-caret-position="174">
+                <caret line="133" column="181" selection-start-line="133" selection-start-column="180" selection-end-line="133" selection-end-column="181" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_sass/case_study.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="392" column="20" lean-forward="true" selection-start-line="392" selection-start-column="20" selection-end-line="392" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -61,6 +52,9 @@
       <find>left</find>
       <find>so peop</find>
       <find>wallpaper</find>
+      <find>i'm here to help!</find>
+      <find>’</find>
+      <find>'</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -72,13 +66,18 @@
       <list>
         <option value="$PROJECT_DIR$/_sass/jekyll-theme-leap-day.scss" />
         <option value="$PROJECT_DIR$/_sass/about.scss" />
-        <option value="$PROJECT_DIR$/mint_case_study.md" />
         <option value="$PROJECT_DIR$/_sass/case_study.scss" />
+        <option value="$PROJECT_DIR$/_site/index.html" />
+        <option value="$PROJECT_DIR$/_site/another-page.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_site/about.html" />
+        <option value="$PROJECT_DIR$/_site/mint_case_study.html" />
+        <option value="$PROJECT_DIR$/mint_case_study.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -186,16 +185,17 @@
       <workItem from="1574389420172" duration="10089000" />
       <workItem from="1574572196128" duration="5000" />
       <workItem from="1575265954458" duration="2089000" />
+      <workItem from="1575356584590" duration="232000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21756000" />
+    <option name="totallyTimeSpent" value="21988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.17910448" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.18070363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -282,16 +282,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mint_case_study.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="510">
-            <caret line="177" selection-start-line="177" selection-end-line="177" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/jekyll-theme-leap-day.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -308,8 +298,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/case_study.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="392" column="20" lean-forward="true" selection-start-line="392" selection-start-column="20" selection-end-line="392" selection-end-column="20" />
+        <state relative-caret-position="324">
+          <caret line="393" column="20" lean-forward="true" selection-start-line="393" selection-start-column="20" selection-end-line="393" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mint_case_study.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="174">
+            <caret line="133" column="181" selection-start-line="133" selection-start-column="180" selection-end-line="133" selection-end-column="181" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
